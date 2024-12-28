@@ -23,7 +23,9 @@ Let's collaborate and create some amazing software together! 💻✨
 ![Swift Package](https://img.shields.io/badge/-Swift Package-05122A?style=flat&logo=HackTheBox&logoColor=FFFFFF)
 
 ### Tech Stack
-- 🏛 **Architecture**: MVC, MVVM, MVP, VIPER 
+- 🏛 **Architecture**: MVC, MVVM, MVP, VIPER
+- 🖥️ UI Framework: UIKit,SwiftUI
+- 🧵 Concurrency: Structured Concurrency (async/await, Task, Actors)
 - ⚡ **Reactive programming**: [Combine](https://developer.apple.com/documentation/combine)
 - 🌍 **Network**: [Alamofire](https://github.com/Alamofire/Alamofire), [URLSession](https://developer.apple.com/documentation/foundation/urlsession)
 - ⚙ **Instruments**: [SwiftLint](https://github.com/realm/SwiftLint), [R.swift](https://github.com/mac-cain13/R.swift)
