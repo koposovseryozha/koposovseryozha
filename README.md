@@ -17,17 +17,14 @@ Let's collaborate and create some amazing software together! 💻✨
 
 ### Languages
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
-### Instruments
-![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=Xcode&logoColor=448EE2)
-![Cocoapods](https://img.shields.io/badge/-CocoaPods-05122A?style=flat&logo=CocoaPods&logoColor=E64225)
-![Swift Package](https://img.shields.io/badge/-Swift Package-05122A?style=flat&logo=HackTheBox&logoColor=FFFFFF)
 
 ### Tech Stack
-- 🏛 **Architecture**: MVC, MVVM, MVP, VIPER
-- 🖥️ UI Framework: UIKit,SwiftUI
-- 🧵 Concurrency: Structured Concurrency (async/await, Task, Actors)
+- 🏛 **Architecture**: MVC, MVP, MVVM, VIPER
+- 🖥️ **UI Framework**: UIKit, SwiftUI
+- 🧵 **Concurrency**: Operation, GCD, Structured Concurrency (async/await, Task, Actors)
 - ⚡ **Reactive programming**: [Combine](https://developer.apple.com/documentation/combine)
 - 🌍 **Network**: [Alamofire](https://github.com/Alamofire/Alamofire), [URLSession](https://developer.apple.com/documentation/foundation/urlsession)
-- ⚙ **Instruments**: [SwiftLint](https://github.com/realm/SwiftLint), [R.swift](https://github.com/mac-cain13/R.swift)
+- ⚙ **Instruments**: [SwiftLint](https://github.com/realm/SwiftLint), [R.swift](https://github.com/mac-cain13/R.swift), [https://github.com/Swinject/Swinject], [https://github.com/SwiftGen/SwiftGen]
+- 🎨 **Rendering** / Graphics API: Metal
 
 ![](https://leetcard.jacoblin.cool/seleza1?ext=heatmap)
