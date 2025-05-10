@@ -23,7 +23,7 @@ Let's collaborate and create some amazing software together! 💻✨
 - 🖥️ **UI Framework**: UIKit, SwiftUI
 - 🧵 **Concurrency**: Operation, GCD, Structured Concurrency (async/await, Task, Actors)
 - ⚡ **Reactive programming**: [Combine](https://developer.apple.com/documentation/combine), [PromiseKit](https://github.com/mxcl/PromiseKit)
-- 🌍 **Network**: [Alamofire](https://github.com/Alamofire/Alamofire), [URLSession](https://developer.apple.com/documentation/foundation/urlsession), [WebSockets]
+- 🌍 **Network**: [Alamofire](https://github.com/Alamofire/Alamofire), [URLSession](https://developer.apple.com/documentation/foundation/urlsession), WebSockets
 - ⚙ **Instruments**: [SwiftLint](https://github.com/realm/SwiftLint), [R.swift](https://github.com/mac-cain13/R.swift), [Swinject](https://github.com/Swinject/Swinject), [SwiftGen](https://github.com/SwiftGen/SwiftGen)
 - 🎨 **Rendering** / Graphics API: Metal
 
