@@ -5,7 +5,7 @@
 <a href="mailto:koposov.serezha@gmail.com"><img src="https://img.shields.io/badge/-koposov.serezha@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 ### Languages
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift), ![Objective-C]
 
 ### Tech Stack
 - **Architecture**: MVC, MVP, MVVM, VIPER
